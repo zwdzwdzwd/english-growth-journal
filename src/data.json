@@ -534,5 +534,29 @@
     "better": "I'm not sure. I just use it when I feel uncomfortable, and it makes me feel better.",
     "notes": "Separated the sentences for clarity. 'makes me feel better' is a more common and natural-sounding phrase than 'makes you feel comfortable' in this context.",
     "culture": ""
+  },
+  {
+    "id": 70,
+    "date": "2026-01-23",
+    "original": "It's a happy day because i fixed the automation of my stock temperature tool it was successfully uploaded and it was working correctly。",
+    "better": "It's a happy day because I fixed the automation of my stock temperature tool. It was successfully uploaded and is working correctly.",
+    "notes": "Capitalize 'I'. 'Stock temperature tool' is a specific term you use. 'Is working' (present continuous) indicates it's currently functional.",
+    "culture": "\"It works!\" is the most satisfying phrase for any developer."
+  },
+  {
+    "id": 71,
+    "date": "2026-01-23",
+    "original": "Yes，i started working on this from yesterday and there were some big problems so i stopped yesterday and take took a rest and i get up this morning then i check and fix it but it still has some problem so i keep trying and get it done finally until this afternoon",
+    "better": "Yes, I started working on this yesterday. There were some big problems, so I stopped and took a rest. I got up this morning to check and fix it, but it still had some problems, so I kept trying. I finally got it done this afternoon.",
+    "notes": "Watch your verb tenses (past tense for yesterday: 'took', 'got', 'kept'). 'Until this afternoon' implies the action stopped at that time.",
+    "culture": "\"Debugging\" often requires stepping away and coming back with fresh eyes."
+  },
+  {
+    "id": 72,
+    "date": "2026-01-23",
+    "original": "Yes，it's a very practical and useful strategy for get progress moved forward and i also use this technique in my daily life such as exercise routine so i did three items today one is i was supposed to swim and do rowing machine but i gave up because i have to fix my stock temperature tool first so i do i did the exercise in room i did push，ups and belly training",
+    "better": "Yes, it's a very practical strategy for making progress. I also use this technique in my daily life, such as in my exercise routine. I did three things today. I was supposed to swim and use the rowing machine, but I skipped them to fix my stock tool first. Instead, I exercised in my room, doing push-ups and core training.",
+    "notes": "'Get progress moved forward' -> 'Making progress'. 'Gave up' usually implies quitting permanently; 'skipped' or 'missed' is better for a single session. 'Belly training' -> 'Core training'.",
+    "culture": "\"Prioritization\" often means trading one good habit (exercise) for an urgent task (work), which is a common modern dilemma."
   }
 ]
