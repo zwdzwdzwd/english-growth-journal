@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Sparkles, RefreshCw, Quote } from 'lucide-react';
 import daoData from './dao-de-jing.json';
+import TextToSpeech from './TextToSpeech';
 
 const DailyWisdom = () => {
   const [chapter, setChapter] = useState(null);
@@ -47,7 +48,10 @@ const DailyWisdom = () => {
           </div>
 
           {/* English Text */}
-          <div className="space-y-4 flex flex-col justify-center border-t md:border-t-0 md:border-l border-white/10 pt-6 md:pt-0 md:pl-8">
+          <div className="space-y-4 flex flex-col justify-center border-t md:border-t-0 md:border-l border-white/10 pt-6 md:pt-0 md:pl-8 relative">
+             <div className="absolute top-0 right-0 md:static md:self-end md:-mt-8 md:mb-2">
+                <TextToSpeech text={chapter.english} color="text-indigo-300 hover:text-white hover:bg-white/10" />
+             </div>
             <p className="text-slate-300 font-light leading-relaxed whitespace-pre-line italic">
               "{chapter.english}"
             </p>

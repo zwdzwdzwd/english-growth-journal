@@ -3,6 +3,7 @@ import { BookOpen, MessageCircle, Lightbulb, Globe, ChevronRight, GraduationCap,
 import entriesData from './data.json';
 import DailyWisdom from './DailyWisdom';
 import Calendar from './Calendar';
+import TextToSpeech from './TextToSpeech';
 
 const EntryCard = ({ entry }) => {
   return (
@@ -19,16 +20,22 @@ const EntryCard = ({ entry }) => {
           {/* Left Side: Comparison */}
           <div className="space-y-4">
             <div>
-              <h4 className="text-xs font-bold text-red-400 uppercase tracking-wider mb-2 flex items-center gap-1">
-                <MessageCircle size={14} /> Original
-              </h4>
+              <div className="flex items-center justify-between mb-2">
+                <h4 className="text-xs font-bold text-red-400 uppercase tracking-wider flex items-center gap-1">
+                  <MessageCircle size={14} /> Original
+                </h4>
+                <TextToSpeech text={entry.original} size={14} />
+              </div>
               <p className="text-slate-600 leading-relaxed italic">"{entry.original}"</p>
             </div>
             
             <div className="pt-4 border-t border-slate-100">
-              <h4 className="text-xs font-bold text-emerald-500 uppercase tracking-wider mb-2 flex items-center gap-1">
-                <GraduationCap size={14} /> Better Version
-              </h4>
+              <div className="flex items-center justify-between mb-2">
+                <h4 className="text-xs font-bold text-emerald-500 uppercase tracking-wider flex items-center gap-1">
+                  <GraduationCap size={14} /> Better Version
+                </h4>
+                <TextToSpeech text={entry.better} size={14} color="text-emerald-500" />
+              </div>
               <p className="text-slate-800 font-medium leading-relaxed">"{entry.better}"</p>
             </div>
           </div>
