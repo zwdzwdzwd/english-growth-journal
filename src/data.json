@@ -558,5 +558,45 @@
     "better": "Yes, it's a very practical strategy for making progress. I also use this technique in my daily life, such as in my exercise routine. I did three things today. I was supposed to swim and use the rowing machine, but I skipped them to fix my stock tool first. Instead, I exercised in my room, doing push-ups and core training.",
     "notes": "'Get progress moved forward' -> 'Making progress'. 'Gave up' usually implies quitting permanently; 'skipped' or 'missed' is better for a single session. 'Belly training' -> 'Core training'.",
     "culture": "\"Prioritization\" often means trading one good habit (exercise) for an urgent task (work), which is a common modern dilemma."
+  },
+  {
+    "id": 73,
+    "date": "2026-01-24",
+    "original": "good evening today，i went to Hong Kong with my wife to get some bank accounts... Opened today，i.",
+    "better": "Good evening. Today, I went to Hong Kong with my wife to get some bank accounts opened.",
+    "notes": "'Get something done' structure (get bank accounts opened). 'Opened' is the past participle describing the state of the accounts.",
+    "culture": "Hong Kong is a major financial hub, and opening bank accounts there is a common task for cross-border finance."
+  },
+  {
+    "id": 74,
+    "date": "2026-01-24",
+    "original": "It took around one hour it's very easy and simple just because we are applying online accounts no need to go to the counter，but due to the bad internet access in the time，we took some more time。",
+    "better": "It took around an hour. It was very easy and simple because we were applying for online accounts, so there was no need to go to the counter. However, due to poor internet access, it took a bit longer.",
+    "notes": "'In the time' -> 'At the time' or just omit. 'Bad internet access' -> 'Poor internet connection'. 'We took some more time' -> 'It took a bit longer' (referring to the process).",
+    "culture": "\"Digital Banking\" (Virtual Banks) is becoming the norm, reducing the need for physical branches (\"counters\")."
+  },
+  {
+    "id": 75,
+    "date": "2026-01-24",
+    "original": "No we tried and it succeeded，but with only one account it's not i we cannot get it a applied through we don't know the reason.",
+    "better": "No, we tried and succeeded, but there's one account we couldn't get approved. We don't know the reason.",
+    "notes": "'Get it applied through' -> 'Get approved' or 'Get the application through'. 'It succeeded' -> 'We succeeded' or 'It worked'.",
+    "culture": "Banking compliance (KYC/AML) can be opaque; sometimes applications are rejected without clear reasons."
+  },
+  {
+    "id": 76,
+    "date": "2026-01-24",
+    "original": "Sure yes，we did，but the food is not so ideal delicious，so we didn't finish them we just have two thirds。",
+    "better": "Yes, we did, but the food wasn't that delicious, so we didn't finish it. We only ate about two-thirds.",
+    "notes": "'Ideal delicious' is unnatural -> 'That delicious' or 'Very tasty'. Food is uncountable ('finish it', not 'finish them'). 'Have two thirds' -> 'Ate two-thirds'.",
+    "culture": "Leaving food can be seen as wasteful, but \"voting with your fork\" is a valid critique of a bad meal."
+  },
+  {
+    "id": 77,
+    "date": "2026-01-24",
+    "original": "Yes... We got a takeaway.",
+    "better": "Yes, we got takeaway.",
+    "notes": "'A takeaway' (noun) or just 'takeaway' (uncountable concept). In the US, it's 'takeout'.",
+    "culture": "\"Pork Chop Bun\" (猪扒包 - Zhūpá bāo) is a famous Macau/Hong Kong snack."
   }
 ]
