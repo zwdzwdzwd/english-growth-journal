@@ -598,5 +598,45 @@
     "better": "Yes, we got takeaway.",
     "notes": "'A takeaway' (noun) or just 'takeaway' (uncountable concept). In the US, it's 'takeout'.",
     "culture": "\"Pork Chop Bun\" (猪扒包 - Zhūpá bāo) is a famous Macau/Hong Kong snack."
+  },
+  {
+    "id": 78,
+    "date": "2026-01-25",
+    "original": "good，evening so i'm back from Hong Kong with my wife we went there by bullet train and for six hours and we came back by airplane for two and a half hours",
+    "better": "Good evening. I'm back from Hong Kong with my wife. We went there by bullet train, which took six hours, and came back by airplane, which took two and a half hours.",
+    "notes": "Structure travel time with relative clauses ('which took...'). 'Bullet train' is the correct term for high-speed rail.",
+    "culture": "Comparing travel modes (Speed vs. Comfort) is a common small talk topic."
+  },
+  {
+    "id": 79,
+    "date": "2026-01-25",
+    "original": "Yes，definitely the space is more more more more more is more larger than the airplane's seat",
+    "better": "Yes, definitely. The space is much larger than the airplane seats.",
+    "notes": "Avoid repetition ('more more more'). Use 'much larger' (comparative + intensifier). 'Space' or 'Legroom' is the specific term for seat comfort.",
+    "culture": "'Legroom' is the most valued commodity in modern travel."
+  },
+  {
+    "id": 80,
+    "date": "2026-01-25",
+    "original": "Yes，when i got on the train i was planning to read a book，but after reading about half an hour i feel i felt sleepy and fall asleep for one or two hours again after waking up... i continued to reading the book",
+    "better": "Yes, when I got on the train, I planned to read a book. But after reading for about half an hour, I felt sleepy and fell asleep for an hour or two. After waking up, I continued reading.",
+    "notes": "'Continued reading' (gerund) is standard. 'Fall asleep' -> 'Fell asleep' (past). 'For about half an hour' (duration).",
+    "culture": "Reading on a train is a classic image of leisure, but 'napping' is often the reality."
+  },
+  {
+    "id": 81,
+    "date": "2026-01-25",
+    "original": "Ican't remember the book the novel name... it's telling a story about a man whose family was killed by his opponents due to their cre- greedy and anxious maybe generous so he tried to revenge and he was put into the jail by one of his opponents for fourteen years he came back with great fortune who gave him in the jail",
+    "better": "I can't remember the novel's name, but it's about a man whose family was killed by his rivals out of greed and jealousy. He tried to get revenge but was imprisoned for fourteen years. He returned with a great fortune given to him in jail.",
+    "notes": "'Opponents' -> 'Rivals' or 'Enemies'. 'Revenge' is usually a noun ('get revenge' or 'take revenge'), 'avenge' is the verb. 'Greedy and anxious' -> likely 'Greed and Jealousy/Envy'.",
+    "culture": "This is clearly *The Count of Monte Cristo* (Le Comte de Monte-Cristo). It's the archetype of the 'Revenge Thriller'."
+  },
+  {
+    "id": 82,
+    "date": "2026-01-25",
+    "original": "Yes，i found this novel is very attractive and i can't stop reading it the plot is so amazing and unpredictable so many zigzags",
+    "better": "Yes, I found this novel very engaging, and I couldn't stop reading it. The plot is amazing and unpredictable, with so many twists and turns.",
+    "notes": "'Attractive' describes people/objects; for books, use 'engaging', 'compelling', or 'gripping'. 'Zigzags' -> 'Twists and turns' is the correct idiom for plot changes.",
+    "culture": "A 'page-turner' is a book you can't put down."
   }
 ]
