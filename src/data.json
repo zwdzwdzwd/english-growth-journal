@@ -638,5 +638,69 @@
     "better": "Yes, I found this novel very engaging, and I couldn't stop reading it. The plot is amazing and unpredictable, with so many twists and turns.",
     "notes": "'Attractive' describes people/objects; for books, use 'engaging', 'compelling', or 'gripping'. 'Zigzags' -> 'Twists and turns' is the correct idiom for plot changes.",
     "culture": "A 'page-turner' is a book you can't put down."
+  },
+  {
+    "id": 83,
+    "date": "2026-01-26",
+    "original": "i have just made a new version of temperature tool originated from stock market and i transferred it into Crypto market hopefully，it will work.",
+    "better": "I have just made a new version of a temperature tool originating from the stock market and transferred it to the Crypto market. Hopefully, it will work.",
+    "notes": "'Originated from' -> 'Originating from' (participle phrase). 'Transferred it into' -> 'Transferred it to'.",
+    "culture": "\"Porting\" a strategy from one market (Stocks/Equities) to another (Crypto) is a common topic in algorithmic trading."
+  },
+  {
+    "id": 84,
+    "date": "2026-01-26",
+    "original": "Because i'm not making profit in the Crypto market and i used this stock market tool To make profit，so i want to try.",
+    "better": "Because I'm not making a profit in the Crypto market, but I use this stock market tool to make a profit, I want to try it.",
+    "notes": "Avoid 'Because... so...'. 'Make profit' -> 'Make a profit'.",
+    "culture": "\"Arbitrage\" implies profiting from price differences, but here it's about arbitraging *logic* or *strategies* across markets."
+  },
+  {
+    "id": 85,
+    "date": "2026-01-26",
+    "original": "I think it will take around at least one month because this stock market temperature need took around half a year.",
+    "better": "I think it will take at least one month because this stock market temperature tool took around half a year.",
+    "notes": "'Take around at least' is redundant -> 'Take at least'. 'Need took' is a tense conflict -> 'Took'.",
+    "culture": "Software development timelines often suffer from the \"Planning Fallacy\" (underestimating time), but comparing to past projects is a good estimation technique."
+  },
+  {
+    "id": 86,
+    "date": "2026-01-26",
+    "original": "So this tool was supposed to detect the buying and selling signals so i will trace back when it detects the signals and i will buy or sell with the signal then i can see if it works.",
+    "better": "This tool is supposed to detect buying and selling signals. I will check back when it detects the signals, buy or sell based on them, and then see if it works.",
+    "notes": "'Trace back' usually means finding the origin. 'Check back' or 'Monitor' is better here. 'Buy or sell with the signal' -> 'Buy or sell based on the signal'.",
+    "culture": "\"Paper Trading\" (simulated trading) vs. \"Backtesting\" (testing on past data) vs. \"Live Trading\" (real money)."
+  },
+  {
+    "id": 87,
+    "date": "2026-01-26",
+    "original": "No i didn't design this function to s- s- it cannot test back.",
+    "better": "No, I didn't design this function, so it can't backtest.",
+    "notes": "'Test back' -> 'Backtest' (specific industry term).",
+    "culture": "Backtesting is considered essential in Quant trading to verify a strategy before risking capital."
+  },
+  {
+    "id": 88,
+    "date": "2026-01-26",
+    "original": "The buy in signal so i can buy in then waiting for the selling signal so i can sell it out then i can make a profit.",
+    "better": "The buy-in signal, so I can buy in, then wait for the selling signal to sell out and make a profit.",
+    "notes": "Tense consistency: 'can buy... then wait' (not 'waiting'). 'Sell it out' is okay, often just 'sell' or 'exit the position'.",
+    "culture": "\"Buy low, sell high\" is the mantra, but \"execution\" is where the difficulty lies."
+  },
+  {
+    "id": 89,
+    "date": "2026-01-26",
+    "original": "Yes，i have eleven cryptos bought in the past and they are losing money so i want to save them back and i make a profit in the future.",
+    "better": "Yes, I have eleven cryptos I bought in the past. They are losing money, so I want to recover my losses and make a profit in the future.",
+    "notes": "'Save them back' -> 'Recover my losses' or 'Turn them around'.",
+    "culture": "\"Bag holding\" is the slang for holding losing positions hoping they will recover."
+  },
+  {
+    "id": 90,
+    "date": "2026-01-26",
+    "original": "First i will use the tool to help with the all the eleven and then we'll start a new one maybe it's better to do them at the same time.",
+    "better": "First, I will use the tool to help with all eleven, then start with new ones. Maybe it's better to do them at the same time.",
+    "notes": "'The all the eleven' -> 'All eleven'.",
+    "culture": "\"Diversification\" vs. \"Concentration\"."
   }
 ]
