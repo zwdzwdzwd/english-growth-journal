@@ -702,5 +702,61 @@
     "better": "First, I will use the tool to help with all eleven, then start with new ones. Maybe it's better to do them at the same time.",
     "notes": "'The all the eleven' -> 'All eleven'.",
     "culture": "\"Diversification\" vs. \"Concentration\"."
+  },
+  {
+    "id": 91,
+    "date": "2026-01-27",
+    "original": "Today，i didn't pay much attention on the markets today because i am adding a new function it's called backtest.",
+    "better": "I didn't pay much attention to the markets today because I am adding a new function called backtest.",
+    "notes": "'Pay attention to' (not 'on'). 'Backtest' is a specific trading term (simulation using historical data).",
+    "culture": "Traders often oscillate between \"watching the tape\" (market monitoring) and \"strategy development\" (coding/research)."
+  },
+  {
+    "id": 92,
+    "date": "2026-01-27",
+    "original": "It works so far and i will check more tomorrow i because i took too much time on computer screen so my eyes felt tired... so i am not able to watch look at the screens now",
+    "better": "It works so far, and I will check more tomorrow. I spent too much time looking at the computer screen, so my eyes feel tired. I can't look at the screen now.",
+    "notes": "'Spend time doing something' or 'Spend time on something'. 'Eye strain' or 'Digital eye strain' is the medical term.",
+    "culture": "The \"20-20-20 rule\" (every 20 mins, look 20 feet away for 20 secs) is standard advice for developers."
+  },
+  {
+    "id": 93,
+    "date": "2026-01-27",
+    "original": "I want to but when i emerged into the work i can't stop so i will sit down for a long time.",
+    "better": "I want to, but when I'm immersed in the work, I can't stop, so I end up sitting for a long time.",
+    "notes": "'Immersed' (deeply involved) vs 'Emerged' (came out of). 'Flow state' is the psychological term for this deep focus.",
+    "culture": "Programmers often value \"Flow\" but it comes at a physical cost (sedentary lifestyle)."
+  },
+  {
+    "id": 94,
+    "date": "2026-01-27",
+    "original": "Actually i don't think the backtest will work or help too much because my principle of investing is no prediction，no hope of rise or decrease just react when it comes。",
+    "better": "Actually, I don't think backtesting will help much because my investment principle is: no prediction, no hoping for rises or falls—just react when the signal comes.",
+    "notes": "This describes a \"Trend Following\" or \"Reactive\" strategy vs. a \"Predictive\" one.",
+    "culture": "\"Plan the trade, trade the plan.\" The debate between technical analysis (predictive) and trend following (reactive) is eternal."
+  },
+  {
+    "id": 95,
+    "date": "2026-01-27",
+    "original": "Anyway，yes，i will keep it because it's presents my work and it works so i'm proud of it.",
+    "better": "Anyway, yes, I will keep it because it represents my work, and it works, so I'm proud of it.",
+    "notes": "'Represents' (stands for/shows) vs 'Presents' (gives).",
+    "culture": "\"Portfolio pieces\" are crucial for developers. Even if a feature isn't used, it demonstrates capability."
+  },
+  {
+    "id": 96,
+    "date": "2026-01-27",
+    "original": "When looking back about that work the most hard part is to get the history data... and the second part is to make it displayed on the website.",
+    "better": "When looking back on the work, the hardest part was getting the historical data... The second part was displaying it on the website.",
+    "notes": "'Look back on' (reflect). 'Historical data' (adj + noun).",
+    "culture": "\"Data Engineering\" (getting data) often consumes more time than \"Data Science\" (analyzing it)."
+  },
+  {
+    "id": 97,
+    "date": "2026-01-27",
+    "original": "I'm not expecting the time or the real result i just do my job，myself and his response and feedback is not so important to be honest.",
+    "better": "I don't expect a specific timeframe or result. I just do my job for myself; honestly, his response and feedback aren't that important.",
+    "notes": "'To be honest' (TBH) is a common softener. 'Do it for myself' implies intrinsic motivation.",
+    "culture": "\"Stoicism\" in creative/technical work: focus on the output (which you control), not the reception (which you don't)."
   }
 ]
