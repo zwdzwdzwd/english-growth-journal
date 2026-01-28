@@ -758,5 +758,61 @@
     "better": "I don't expect a specific timeframe or result. I just do my job for myself; honestly, his response and feedback aren't that important.",
     "notes": "'To be honest' (TBH) is a common softener. 'Do it for myself' implies intrinsic motivation.",
     "culture": "\"Stoicism\" in creative/technical work: focus on the output (which you control), not the reception (which you don't)."
+  },
+  {
+    "id": 98,
+    "date": "2026-01-28",
+    "original": "I adjust the speed and incline several times... after that i increase speed to twelve and decr in decrease the incline to one or zero after ten minutes i lower speed.",
+    "better": "I adjusted the speed and incline several times. I started with an incline of 3 and speed of 9 for five minutes. After that, I increased the speed to 12 and decreased the incline to 1 or 0. After ten minutes, I lowered the speed.",
+    "notes": "Pay attention to past tense verbs (adjusted, started, increased, decreased, lowered) when describing a past workout.",
+    "culture": "Interval training (adjusting intensity) is a very effective cardio method."
+  },
+  {
+    "id": 99,
+    "date": "2026-01-28",
+    "original": "During the speed at twelve i felt my knee a little bit hurt and uncomfortable so i decreased the speed to nine and ran for one kilometers then i decreased again to six.",
+    "better": "When running at a speed of 12, I felt a little pain in my knee and some discomfort, so I decreased the speed to 9 and ran for one kilometer, then decreased it again to 6.",
+    "notes": "'Felt my knee a little bit hurt' -> 'Felt a little pain in my knee' or 'My knee hurt a little'. 'One kilometers' -> 'One kilometer' (singular).",
+    "culture": "Listening to your body and modifying the workout (like slowing down) is key to injury prevention."
+  },
+  {
+    "id": 100,
+    "date": "2026-01-28",
+    "original": "Frog stroke.",
+    "better": "Breaststroke.",
+    "notes": "The swimming style is called 'Breaststroke' in English, not 'Frog stroke' (which is a direct translation from Chinese).",
+    "culture": "Breaststroke is considered a good recovery swim because it can be low-impact if done leisurely."
+  },
+  {
+    "id": 101,
+    "date": "2026-01-28",
+    "original": "The sign which is telling me i'm don't have enough energy is i cannot swim so fast i don't i feel i can't swim so fast.",
+    "better": "The sign telling me I don't have enough energy is that I can't swim as fast. I just feel like I can't maintain the speed.",
+    "notes": "Simplify complex sentences. 'I'm don't' -> 'I don't'.",
+    "culture": "Recognizing physical signs of fatigue (like inability to hold pace) is part of 'Auto-regulation' in training."
+  },
+  {
+    "id": 102,
+    "date": "2026-01-28",
+    "original": "But i noticed that my muscle in my small leg got stuck so i cannot swim again so i just stop and stretch my foot so the muscle can rest and restore then i can continue swimming.",
+    "better": "But I noticed my calf muscle cramped, so I couldn't swim. I stopped and stretched my foot so the muscle could relax, and then I continued swimming.",
+    "notes": "'Small leg' -> 'Calf'. 'Got stuck' -> 'Cramped'. 'Restore' -> 'Recover' or 'Relax'.",
+    "culture": "Muscle cramps (charley horse) are common in swimming due to pointing the toes."
+  },
+  {
+    "id": 103,
+    "date": "2026-01-28",
+    "original": "Oh i see so i didn't drink today before and after the workouts and during the workouts i also didn't have drink.",
+    "better": "Oh, I see. So I didn't drink anything today before or after the workout, and I didn't drink during it either.",
+    "notes": "'Didn't have drink' -> 'Didn't have a drink' or 'Didn't drink anything'.",
+    "culture": "Hydration is critical. The rule of thumb is to drink water even if you're in a pool, as you still sweat."
+  },
+  {
+    "id": 104,
+    "date": "2026-01-28",
+    "original": "Yeah i will do just like you mentioned. Put a pinch of salt in the water.",
+    "better": "Yeah, I'll do exactly as you mentioned. I'll put a pinch of salt in the water.",
+    "notes": "'Do just like' -> 'Do exactly as'.",
+    "culture": "Adding a pinch of salt (sodium) is a homemade \"electrolyte drink\" hack, cheaper than buying Gatorade."
   }
 ]
