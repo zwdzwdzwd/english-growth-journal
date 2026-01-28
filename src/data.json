@@ -763,9 +763,9 @@
     "id": 98,
     "date": "2026-01-28",
     "original": "I adjust the speed and incline several times... after that i increase speed to twelve and decr in decrease the incline to one or zero after ten minutes i lower speed.",
-    "better": "I adjusted the speed and incline several times. I started with an incline of 3 and speed of 9 for five minutes. After that, I increased the speed to 12 and decreased the incline to 1 or 0. After ten minutes, I lowered the speed.",
-    "notes": "Pay attention to past tense verbs (adjusted, started, increased, decreased, lowered) when describing a past workout.",
-    "culture": "Interval training (adjusting intensity) is a very effective cardio method."
+    "better": "I adjusted the speed and incline several times. I started with an incline of 3 and a speed of 9 for five minutes. After that, I increased the speed to 12 and decreased the incline to 1 or 0. Ten minutes later, I lowered the speed.",
+    "notes": "We say 'set the incline to 3'. Use past tense (adjusted, increased, lowered) for past workouts.",
+    "culture": "\"HIIT\" (High-Intensity Interval Training) is the specific term for this variable-intensity cardio."
   },
   {
     "id": 99,
@@ -814,5 +814,13 @@
     "better": "Yeah, I'll do exactly as you mentioned. I'll put a pinch of salt in the water.",
     "notes": "'Do just like' -> 'Do exactly as'.",
     "culture": "Adding a pinch of salt (sodium) is a homemade \"electrolyte drink\" hack, cheaper than buying Gatorade."
+  },
+  {
+    "id": 105,
+    "date": "2026-01-28",
+    "original": "Yes i can i couldn't swim fast like before i used to swim at one kilometer for two minutes and forty five seconds，but i did only three minutes today because i couldn't feel the strength so i slow down.",
+    "better": "I couldn't swim as fast as before. I used to swim at a pace of 2 minutes 45 seconds per 100m, but today my pace was 3 minutes because I didn't feel strong enough, so I slowed down.",
+    "notes": "Pace in swimming is usually measured per 100m. \"Didn't feel strong enough\" is more natural than \"couldn't feel the strength\".",
+    "culture": "Swimmers obsess over \"pace per 100m\". 2:45/100m is a relaxed breaststroke pace."
   }
 ]
