@@ -822,5 +822,69 @@
     "better": "I couldn't swim as fast as before. I used to swim at a pace of 2 minutes 45 seconds per 100m, but today my pace was 3 minutes because I didn't feel strong enough, so I slowed down.",
     "notes": "Pace in swimming is usually measured per 100m. \"Didn't feel strong enough\" is more natural than \"couldn't feel the strength\".",
     "culture": "Swimmers obsess over \"pace per 100m\". 2:45/100m is a relaxed breaststroke pace."
+  },
+  {
+    "id": 106,
+    "date": "2026-01-29",
+    "original": "Because i don't feel like to swim today.",
+    "better": "Because I didn't feel like swimming today.",
+    "notes": "Grammar: 'feel like' is followed by the gerund form (-ing). 'Feel like swimming'.",
+    "culture": "Listening to your body and adjusting your workout splits (e.g., swapping cardio for chest day) is common in fitness culture."
+  },
+  {
+    "id": 107,
+    "date": "2026-01-29",
+    "original": "But i did it today i feel much better i don't feel hurt in the arms.",
+    "better": "But I did it today, and I feel much better. My arms don't hurt anymore.",
+    "notes": "'I don't feel hurt' is unnatural. We say 'My arms don't hurt' or 'I don't feel any pain'.",
+    "culture": "Delayed Onset Muscle Soreness (DOMS) usually peaks at 48 hours, so feeling better after 2 days is expected."
+  },
+  {
+    "id": 108,
+    "date": "2026-01-29",
+    "original": "Not specific but almost so i will i'm going to do it in the morning after twelve o'clock maybe then i'll come.",
+    "better": "Not exactly, but around that time. I'm going to do it in the afternoon, maybe after twelve o'clock.",
+    "notes": "Logic error: 'After 12 o'clock' is afternoon, not morning. 'Mid-noon' is not a standard term; just say 'noon' or 'midday'.",
+    "culture": "Market hours often dictate traders' personal schedules."
+  },
+  {
+    "id": 109,
+    "date": "2026-01-29",
+    "original": "Yes，i did and because i have made a stock market tool to measure the temperature of a stock market and i will do buy or sell operation with the signal.",
+    "better": "Yes, I do. I made a tool to measure the market's 'temperature', and I buy or sell based on its signals.",
+    "notes": "'Do buy or sell operation' -> 'Buy or sell' or 'Execute trades'. 'With the signal' -> 'Based on the signal'.",
+    "culture": "Using metaphors like 'temperature' or 'momentum' is common to describe market sentiment."
+  },
+  {
+    "id": 110,
+    "date": "2026-01-29",
+    "original": "I can say around ninety percent of accuracy.",
+    "better": "I'd say it has around 90% accuracy.",
+    "notes": "Remove 'of'. '90% accuracy' is the standard phrase.",
+    "culture": "90% win rate is exceptionally high in trading; most professional traders aim for 55-60% with good risk management."
+  },
+  {
+    "id": 111,
+    "date": "2026-01-29",
+    "original": "Yes，it's actually published on the website and i have shared it to some people already and there are already two users who have paid the money to me.",
+    "better": "Yes, it's published on the website. I've shared it with some people, and two users have already paid me.",
+    "notes": "'Shared it *with* people'. 'Paid the money to me' -> 'Paid me' (concise).",
+    "culture": "Getting the first paying customer is the most significant milestone for any SaaS product."
+  },
+  {
+    "id": 112,
+    "date": "2026-01-29",
+    "original": "Actually，i don't have clear idea i just added the money like one hundred six nine，one hundred ninety nine or one thousand nine hundred ninety nine.",
+    "better": "Actually, I don't have a clear idea. I might set the price at 199 or 1999.",
+    "notes": "'Added the money' -> 'Set the price'. Pricing tiers are usually distinct (e.g., Monthly vs Yearly).",
+    "culture": "Psychological pricing (ending in .99) is a standard marketing tactic."
+  },
+  {
+    "id": 113,
+    "date": "2026-01-29",
+    "original": "i will create a community like website or group，but because people in China are banned for using vpn or visiting websites located served on overseas servers so there's problem i need to consider and fix it's the access to the content because i have been banned my account on already on the platform。",
+    "better": "I want to create a community website or group. But since people in China are restricted from accessing overseas servers, I need to solve this access issue. Also, my account on the local platform has already been banned.",
+    "notes": "Complex sentence repair. 'Banned for using' -> 'Restricted from' or 'Cannot use'. 'Served on overseas servers' -> 'Hosted overseas'.",
+    "culture": "Internet censorship (The Great Firewall) is a major technical and operational challenge for cross-border communities in China."
   }
 ]
