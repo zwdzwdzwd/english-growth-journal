@@ -886,5 +886,85 @@
     "better": "I want to create a community website or group. But since people in China are restricted from accessing overseas servers, I need to solve this access issue. Also, my account on the local platform has already been banned.",
     "notes": "Complex sentence repair. 'Banned for using' -> 'Restricted from' or 'Cannot use'. 'Served on overseas servers' -> 'Hosted overseas'.",
     "culture": "Internet censorship (The Great Firewall) is a major technical and operational challenge for cross-border communities in China."
+  },
+  {
+    "id": 114,
+    "date": "2026-01-30",
+    "original": "good afternoon i'm wondering any way to improve or change or modify my accent because i'm Chinese，but i want to speak like a native speaker any way to make it。",
+    "better": "Good afternoon. I'm wondering if there's any way to improve or modify my accent. I'm Chinese, but I want to speak like a native speaker. Is there any way to achieve that?",
+    "notes": "'Change or modify' is redundant; choose one. 'Make it' is vague; 'Achieve that' is better.",
+    "culture": "Accent reduction/modification is a common goal, but 'clarity' is often more important than 'nativeness'."
+  },
+  {
+    "id": 115,
+    "date": "2026-01-30",
+    "original": "Not too much i just practice with ai recently.",
+    "better": "Not too much. I've just been practicing using AI recently.",
+    "notes": "'Practice with AI' is okay, but 'Practice using AI' emphasizes the tool. Use 'I've been...' for recent continuous actions.",
+    "culture": "AI tutors (like Doubao, Duolingo) are revolutionizing language learning accessibility."
+  },
+  {
+    "id": 116,
+    "date": "2026-01-30",
+    "original": "I'm using doubao app to practice speaking English as my tutor.",
+    "better": "I'm using the Doubao app as my tutor to practice speaking English.",
+    "notes": "Place 'as my tutor' immediately after the object it describes ('Doubao app') for better flow.",
+    "culture": "Role-playing with AI (treating it as a tutor) helps set the context for better feedback."
+  },
+  {
+    "id": 117,
+    "date": "2026-01-30",
+    "original": "Oh，i see i will try and to emulate the accent the pronunciation.",
+    "better": "Oh, I see. I will try to imitate the accent and pronunciation.",
+    "notes": "'Emulate' suggests matching success/achievement; 'Imitate' or 'Mimic' is used for copying sounds/behaviors.",
+    "culture": "Shadowing (imitating native speech) is a standard linguistic technique."
+  },
+  {
+    "id": 118,
+    "date": "2026-01-30",
+    "original": "No，i have no idea i don't have the good resource to do it。",
+    "better": "No, I have no idea. I don't have good resources for it.",
+    "notes": "'Resource' is usually plural here ('resources'). 'To do it' -> 'For it' or 'For practice'.",
+    "culture": "Finding 'authentic input' (podcasts, movies) is key to accent acquisition."
+  },
+  {
+    "id": 119,
+    "date": "2026-01-30",
+    "original": "maybe one or two weeks ago i'm always stop and thinking，but now i'm i can speak fluently more than before not think too much。",
+    "better": "Maybe one or two weeks ago, I always stopped and thought, but now I can speak more fluently than before without thinking too much.",
+    "notes": "Tense consistency: 'Ago... stopped and thought' (Past). 'Not think too much' -> 'Without thinking too much'.",
+    "culture": "Overcoming the 'Translation Buffer' (translating in your head) is the sign of reaching fluency."
+  },
+  {
+    "id": 120,
+    "date": "2026-01-30",
+    "original": "Yes，the key point is i have no idea of what i am expressing.",
+    "better": "Yes, the key point is that I have no idea what I'm expressing.",
+    "notes": "Remove 'of'. 'Idea what...' is the correct structure.",
+    "culture": "Speaking without content usually means the topic is too complex for your current level."
+  },
+  {
+    "id": 121,
+    "date": "2026-01-30",
+    "original": "Yes，definitely i will keep practicing expression of my daily life and ideas and i will add the action of practice accent.",
+    "better": "Yes, definitely. I will keep practicing expressing my daily life and ideas, and I will add accent practice.",
+    "notes": "'Expression of' -> 'Expressing' (Gerund). 'Action of practice accent' -> 'Accent practice' (Noun phrase).",
+    "culture": "Combining 'Fluency' (content) and 'Accuracy' (form/accent) is a balanced approach."
+  },
+  {
+    "id": 122,
+    "date": "2026-01-30",
+    "original": "Yes，i'm already doing it and i was worried about making mistakes before but now i am.",
+    "better": "Yes, I'm already doing it. I was worried about making mistakes before, but now I'm not.",
+    "notes": "The sentence trails off. 'But now I am' implies 'I am worried'. Context suggests 'I am NOT'.",
+    "culture": "Fear of making mistakes is the #1 barrier to fluency."
+  },
+  {
+    "id": 123,
+    "date": "2026-01-30",
+    "original": "I have to do some works now bye for now.",
+    "better": "I have to do some work now. Bye for now.",
+    "notes": "'Work' (job/tasks) is uncountable. 'Works' implies artistic creations or factory plants.",
+    "culture": "Closing a conversation politely is a key social skill."
   }
 ]
