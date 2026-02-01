@@ -966,5 +966,85 @@
     "better": "I have to do some work now. Bye for now.",
     "notes": "'Work' (job/tasks) is uncountable. 'Works' implies artistic creations or factory plants.",
     "culture": "Closing a conversation politely is a key social skill."
+  },
+  {
+    "id": 124,
+    "date": "2026-02-01",
+    "original": "we took four hours from the down to the up top and we take three hours from the top to the down",
+    "better": "We took four hours to go from the bottom to the top, and three hours to come down.",
+    "notes": "'From the down' is unnatural. Use 'bottom' vs 'top'. Hiking down is often called 'descending'.",
+    "culture": "Hiking times are often described in terms of 'ascent' and 'descent'."
+  },
+  {
+    "id": 125,
+    "date": "2026-02-01",
+    "original": "Yes，absolutely the snow view landscape is amazing.",
+    "better": "Yes, absolutely. The snowy view and landscape were amazing.",
+    "notes": "'Snow view' is Chinglish. Use 'Snowy view', 'Snow-covered landscape', or 'Winter scenery'.",
+    "culture": "Describing nature often involves compound adjectives like 'snow-capped mountains'."
+  },
+  {
+    "id": 126,
+    "date": "2026-02-01",
+    "original": "Yes，indeed and i have not added the video.",
+    "better": "Yes, indeed, but I haven't edited the video yet.",
+    "notes": "Context implies 'cutting/making' the video, which is 'edit', not 'add'.",
+    "culture": "Video editing (Post-production) is where the magic happens for drone shots."
+  },
+  {
+    "id": 127,
+    "date": "2026-02-01",
+    "original": "Yes of course i will add a background music to match the video.",
+    "better": "Yes, of course. I will add background music to match the video.",
+    "notes": "'Music' is uncountable. Never say 'a music'. You can say 'a piece of music' or 'a song'.",
+    "culture": "Background music (BGM) sets the mood/tone of the content."
+  },
+  {
+    "id": 128,
+    "date": "2026-02-01",
+    "original": "I think i will look for up beat music。",
+    "better": "I think I will look for upbeat music.",
+    "notes": "'Upbeat' (cheerful/fast) is one word.",
+    "culture": "Choosing between 'Upbeat' vs 'Ambient/Chill' completely changes the video's vibe."
+  },
+  {
+    "id": 129,
+    "date": "2026-02-01",
+    "original": "it's not for business use so i don't need to buy the copyright of the music",
+    "better": "It's not for commercial use, so I don't need to buy a license for the music.",
+    "notes": "'Business use' -> 'Commercial use'. 'Buy the copyright' implies buying the song itself; usually, we buy a 'license' to use it.",
+    "culture": "Copyright strikes are a major concern for content creators on platforms like YouTube/TikTok."
+  },
+  {
+    "id": 130,
+    "date": "2026-02-01",
+    "original": "No i don't have it，but i can use it within the edit app.",
+    "better": "No, I don't, but I can use the music within the editing app.",
+    "notes": "'Edit app' -> 'Editing app' (The app used for editing).",
+    "culture": "Mobile editing apps like CapCut (TikTok's sister app) are very powerful now."
+  },
+  {
+    "id": 131,
+    "date": "2026-02-01",
+    "original": "No not too much just several of my friends。",
+    "better": "No, not too many. Just several of my friends.",
+    "notes": "Followers/Friends are countable, so use 'Many', not 'Much'.",
+    "culture": "Having a 'private' or 'friends-only' account is common for personal sharing."
+  },
+  {
+    "id": 132,
+    "date": "2026-02-01",
+    "original": "Yes i think so my friends always like the videos i uploaded.",
+    "better": "Yes, I think so. My friends always like the videos I upload.",
+    "notes": "General truth/habit -> Use Present Tense ('videos I upload'). 'Uploaded' refers to specific past ones.",
+    "culture": "Consistent engagement from friends is a sign of a supportive social circle."
+  },
+  {
+    "id": 133,
+    "date": "2026-02-01",
+    "original": "No，i don't we don't communicate or exchange the ideas of making and shooting videos.",
+    "better": "No, we don't communicate or exchange ideas about making videos.",
+    "notes": "Remove 'the' before 'ideas'. 'About making videos' is cleaner than 'of making and shooting'.",
+    "culture": "Creative hobbies can be solitary or communal; you seem to prefer the solitary 'creator' mode."
   }
 ]
