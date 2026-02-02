@@ -1046,5 +1046,69 @@
     "better": "No, we don't communicate or exchange ideas about making videos.",
     "notes": "Remove 'the' before 'ideas'. 'About making videos' is cleaner than 'of making and shooting'.",
     "culture": "Creative hobbies can be solitary or communal; you seem to prefer the solitary 'creator' mode."
+  },
+  {
+    "id": 134,
+    "date": "2026-02-02",
+    "original": "good evening i do not follow my exercise routine today",
+    "better": "Good evening. I did not stick to my exercise routine today.",
+    "notes": "'Stick to' is the standard phrasal verb for routines. 'Do not follow' is grammatically okay but less natural.",
+    "culture": "Consistency ('sticking to it') is the most valued trait in fitness culture."
+  },
+  {
+    "id": 135,
+    "date": "2026-02-02",
+    "original": "so i have to change plan",
+    "better": "So I have to change my plans.",
+    "notes": "'Change plans' is usually plural when referring to a general shift in schedule.",
+    "culture": "Flexibility is key when facilities (like pools) close unexpectedly."
+  },
+  {
+    "id": 136,
+    "date": "2026-02-02",
+    "original": "For the training muscle training is acquire for strength and swimming is for nu rance",
+    "better": "For training, muscle training helps acquire strength, and swimming is for endurance.",
+    "notes": "User likely meant 'Endurance' (stamina), though the AI misheard. 'Acquire for' -> 'Helps acquire'.",
+    "culture": "The debate between 'Strength' (Anaerobic) and 'Endurance' (Aerobic) is fundamental in sports science."
+  },
+  {
+    "id": 137,
+    "date": "2026-02-02",
+    "original": "I prefer swimming to be honest",
+    "better": "To be honest, I prefer swimming.",
+    "notes": "'To be honest' (TBH) is a great sentence starter to express personal preference.",
+    "culture": "Swimming is often preferred for being low-impact on joints compared to weightlifting."
+  },
+  {
+    "id": 138,
+    "date": "2026-02-02",
+    "original": "I will do swim one day and muscle training another day and with one day internal",
+    "better": "I will swim one day, do muscle training the next, with one day of rest.",
+    "notes": "'Internal' was likely a typo/mispronunciation for 'interval' or 'rest'. Context implies a break day.",
+    "culture": "Rest days are crucial for muscle recovery and preventing burnout."
+  },
+  {
+    "id": 139,
+    "date": "2026-02-02",
+    "original": "It is on Sunday.",
+    "better": "It's on Sunday.",
+    "notes": "Simple, direct answer. Contractions ('It's') make speech flow better.",
+    "culture": "Sunday is traditionally the 'Day of Rest' in many cultures."
+  },
+  {
+    "id": 140,
+    "date": "2026-02-02",
+    "original": "Just take a break and do some casual walk or have a rest at home watching tv or reading books or playing games",
+    "better": "Just take a break, go for a casual walk, rest at home, watch TV, read books, or play games.",
+    "notes": "Use parallel structure for lists of activities (base verbs: go, rest, watch, read, play).",
+    "culture": "'Active recovery' (like a casual walk) is often better than total inactivity."
+  },
+  {
+    "id": 141,
+    "date": "2026-02-02",
+    "original": "a mobile game for playing heroes and like a chess",
+    "better": "A mobile game with heroes that plays like chess.",
+    "notes": "'Like a chess' -> 'Like chess' (Game names don't take articles). Likely referring to 'Auto Chess'.",
+    "culture": "Auto Battlers (like Teamfight Tactics) combine strategy (chess) with MOBA characters."
   }
 ]
