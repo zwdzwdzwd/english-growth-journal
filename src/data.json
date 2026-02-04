@@ -1190,5 +1190,21 @@
     "better": "I've accepted that I can't catch every single market move.",
     "notes": "'Catch a move' is idiomatic for profiting from a specific price change.",
     "culture": "Accepting missed opportunities is a sign of high 'Trading EQ' (Emotional Quotient)."
+  },
+  {
+    "id": 152,
+    "date": "2026-02-04",
+    "original": "when the tool has signals for selling i am fearful so i will sell when it says to buy i am greedy then i will buy just that simple",
+    "better": "When the tool signals to sell, I become fearful and sell. When it says to buy, I become greedy and buy. It's that simple.",
+    "notes": "Use 'signals to sell' (verb phrase) or 'gives a sell signal' (noun phrase). 'Become fearful' describes the change in state.",
+    "culture": "Systematic trading removes emotional decision-making, effectively 'outsourcing' your fear and greed to the algorithm."
+  },
+  {
+    "id": 154,
+    "date": "2026-02-04",
+    "original": "because you already didn't follow the rule for several times",
+    "better": "Because you haven't followed the rules several times already.",
+    "notes": "Use Present Perfect ('haven't followed') for actions happening up to now. 'Several times' goes at the end.",
+    "culture": "Giving direct feedback to an AI (or a person) about breaking rules is a necessary communication skill."
   }
 ]
