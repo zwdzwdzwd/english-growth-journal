@@ -1110,5 +1110,85 @@
     "better": "A mobile game with heroes that plays like chess.",
     "notes": "'Like a chess' -> 'Like chess' (Game names don't take articles). Likely referring to 'Auto Chess'.",
     "culture": "Auto Battlers (like Teamfight Tactics) combine strategy (chess) with MOBA characters."
+  },
+  {
+    "id": 142,
+    "date": "2026-02-04",
+    "original": "Good afternoon，i just finished update of my stock temperature tool",
+    "better": "Good afternoon. I just finished an update for my stock tracking tool.",
+    "notes": "An update (needs an article). 'Stock tracking tool' or 'Stock monitor' is clearer than 'temperature tool' for general audiences.",
+    "culture": "In software dev, 'updates' often refer to feature enhancements or bug fixes."
+  },
+  {
+    "id": 143,
+    "date": "2026-02-04",
+    "original": "I added a new feature or function that i can add the stock i buy and sell so it will display a dot for the buy or sales point.",
+    "better": "I added a new feature that lets me log the stocks I buy and sell, so the chart will display a dot for each buy or sell point.",
+    "notes": "'Lets me log' is more idiomatic for data entry features. 'Buy or sell point' is the standard trading term.",
+    "culture": "Visualizing execution points on a chart helps traders review their discipline and strategy accuracy."
+  },
+  {
+    "id": 144,
+    "date": "2026-02-04",
+    "original": "it's green for buy and red for sell",
+    "better": "It's green for buy signals and red for sell signals.",
+    "notes": "Green and Red are the standard colors for 'positive/buy' and 'negative/sell' in most financial markets.",
+    "culture": "In some Asian markets (like mainland China), Red means an increase in price, and Green means a decrease, which is opposite to Western conventions."
+  },
+  {
+    "id": 145,
+    "date": "2026-02-04",
+    "original": "the main purpose of design this function is to test and verify the strategy of my stock temperature tool.",
+    "better": "The main purpose of designing this function is to test and verify the strategy for my stock tracking tool.",
+    "notes": "'Purpose of designing' (gerund). Use 'for' to link the strategy to the tool.",
+    "culture": "Verification and validation are core principles in both software engineering and financial engineering."
+  },
+  {
+    "id": 146,
+    "date": "2026-02-04",
+    "original": "I have tested recently for three months and it works all hundred percent.",
+    "better": "I've tested it over the past three months, and it works one hundred percent of the time.",
+    "notes": "'Tested over the past...' (duration). 'One hundred percent' doesn't need the word 'all'.",
+    "culture": "A '100% win rate' is extremely high; traders usually look for consistency over long periods rather than perfection."
+  },
+  {
+    "id": 147,
+    "date": "2026-02-04",
+    "original": "it makes profits all from the process of buy to sell so in the circle the closed circle it will it makes profits。",
+    "better": "It makes a profit for every buy-to-sell process; for each closed trade, it's profitable.",
+    "notes": "'Closed trade' or 'Round trip' are the technical terms for a completed transaction cycle.",
+    "culture": "Focusing on 'Closed P&L' helps traders avoid the psychological trap of ignoring 'paper losses'."
+  },
+  {
+    "id": 148,
+    "date": "2026-02-04",
+    "original": "i will still stay calm and calm down so we'll let the temperature go for more times at least three times or maybe more",
+    "better": "I'll stay calm and wait for the temperature signal to appear at least three more times.",
+    "notes": "'Stay calm' (maintain state). 'Appear three more times' is clearer than 'go for more times'.",
+    "culture": "Filtering signals (waiting for confirmation) is a hallmark of disciplined algorithmic trading."
+  },
+  {
+    "id": 149,
+    "date": "2026-02-04",
+    "original": "i don't care too much about the market's sentimentation... i will feel terrible or horrified then i will sell it。",
+    "better": "I don't care too much about market sentiment... I get cautious and decide to sell.",
+    "notes": "'Sentiment' (not 'sentimentation'). 'Get cautious' sounds more professional for a trading mindset than 'feel horrified'.",
+    "culture": "Contrarian investing is the strategy of buying or selling in opposition to the prevailing market trend."
+  },
+  {
+    "id": 150,
+    "date": "2026-02-04",
+    "original": "when people are greedy，i am fear when people are fear，i am greedy。",
+    "better": "Be fearful when others are greedy, and greedy when others are fearful.",
+    "notes": "Fear (noun) -> Fearful (adjective). This is the famous Warren Buffett quote.",
+    "culture": "Warren Buffett's 'Circle of Competence' and 'Margin of Safety' are foundational concepts in value investing."
+  },
+  {
+    "id": 151,
+    "date": "2026-02-04",
+    "original": "i have a mindset that i cannot get the every",
+    "better": "I've accepted that I can't catch every single market move.",
+    "notes": "'Catch a move' is idiomatic for profiting from a specific price change.",
+    "culture": "Accepting missed opportunities is a sign of high 'Trading EQ' (Emotional Quotient)."
   }
 ]
