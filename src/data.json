@@ -1206,5 +1206,61 @@
     "better": "Because you haven't followed the rules several times already.",
     "notes": "Use Present Perfect ('haven't followed') for actions happening up to now. 'Several times' goes at the end.",
     "culture": "Giving direct feedback to an AI (or a person) about breaking rules is a necessary communication skill."
+  },
+  {
+    "id": 155,
+    "date": "2026-02-05",
+    "original": "Good afternoon i just came back home from the doctor.",
+    "better": "Good afternoon. I just came back from the doctor's office.",
+    "notes": "'From the doctor' is common, but 'from the doctor's office' or 'from the clinic' is more precise.",
+    "culture": "Health-related small talk often starts with a general status update before diving into specifics."
+  },
+  {
+    "id": 156,
+    "date": "2026-02-05",
+    "original": "she said there's no other better method to get my bottom back to normal status.",
+    "better": "She said there's no better way to get my condition back to normal.",
+    "notes": "'No other better' is redundant. 'Bottom' is confusing contextually; 'condition' or 'state' is clearer for health.",
+    "culture": "Medical jargon can be overwhelming, so patients often use general terms like 'condition' to summarize."
+  },
+  {
+    "id": 157,
+    "date": "2026-02-05",
+    "original": "It will get me some hurt some pain in my knee because the direction of the root of my leg is not normal it get distraited not like the straight direction.",
+    "better": "It causes me some pain in my knee because my leg alignment isn't normal; it gets distorted and isn't straight.",
+    "notes": "'Get me some hurt' -> 'Cause me pain'. 'Distraited' -> 'Distorted' or 'Misaligned'.",
+    "culture": "Describing physical ailments requires specific vocabulary like 'alignment' and 'distorted'."
+  },
+  {
+    "id": 158,
+    "date": "2026-02-05",
+    "original": "running keep running for a long time like for example i cannot run Marathon.",
+    "better": "Running for a long time—for example, I can't run a marathon.",
+    "notes": "'Run Marathon' -> 'Run a marathon' (article needed).",
+    "culture": "Marathons (42.195km) are the ultimate test of endurance, but half-marathons are a very popular 'gateway' goal."
+  },
+  {
+    "id": 159,
+    "date": "2026-02-05",
+    "original": "i am participating，i am going to run a Marathon in April.",
+    "better": "I'm planning to run a marathon in April.",
+    "notes": "'Participating' is okay, but 'Planning to run' or 'Entering' is more common for future events.",
+    "culture": "Spring (April) and Autumn (October) are the peak seasons for marathons globally due to the mild weather."
+  },
+  {
+    "id": 160,
+    "date": "2026-02-05",
+    "original": "it will be supported and held by my university my mother university so i want to participate in it... it will be half Marathon not the whole Marathon",
+    "better": "It's being sponsored and held by my alma mater, so I want to participate... it's a half-marathon, not a full one.",
+    "notes": "'Mother university' -> 'Alma mater'. 'Whole Marathon' -> 'Full marathon'.",
+    "culture": "'Alma Mater' is a Latin term used in English to refer to one's former school or university."
+  },
+  {
+    "id": 161,
+    "date": "2026-02-05",
+    "original": "Starting running from one kilometers to five kilometers and then scale to ten then twenty final twenty two.",
+    "better": "I'll start by running one to five kilometers, then scale up to ten, twenty, and finally twenty-two.",
+    "notes": "'Scale to' -> 'Scale up to'. 'Final' -> 'Finally'.",
+    "culture": "Gradual mileage increases (The 10% rule) are the standard way to train safely for long distances."
   }
 ]
